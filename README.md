@@ -1,2 +1,1 @@
-# My Personal Website
-Hello there
+Hello there. This is my personal website.
